@@ -16,6 +16,7 @@ height: 100vh;
 font-size: 62.5%;
 color: rgba(151, 149, 149, 0.747);
 font-family: "Madimi One", sans-serif;
+scroll-behavior: smooth;
 }
 
 body{
